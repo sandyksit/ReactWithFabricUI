@@ -23,4 +23,5 @@ For development, run:
 $ npm start
 ```
 
-https://drive.google.com/open?id=0B0fCOSulG6CYRnoyTmprWXNVbFlPcTBoVnY0NnNaak0yZ3Zn
+![image 2](https://user-images.githubusercontent.com/13213679/43035460-ea74d5c8-8d0d-11e8-8062-4851e5a51f21.png)
+
