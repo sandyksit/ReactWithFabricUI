@@ -23,5 +23,6 @@ For development, run:
 $ npm start
 ```
 
+Once you run the app, it look like below screen.
 ![image 2](https://user-images.githubusercontent.com/13213679/43035460-ea74d5c8-8d0d-11e8-8062-4851e5a51f21.png)
 
