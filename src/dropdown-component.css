@@ -1,0 +1,11 @@
+div.with-margin {
+    margin-top: 5px;
+    float: right;    
+  }
+  .button-margin{
+    padding-left: 10px;
+    margin-right: 14px;
+  }
+div.table-margin {
+  margin-top: 5%;
+}

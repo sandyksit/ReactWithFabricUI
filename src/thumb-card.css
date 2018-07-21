@@ -1,0 +1,16 @@
+.ms-List-cell {
+    display: inline-block;
+    margin: 2px 20px;
+}
+.ms-bottom-span {
+    width: 150px;
+}
+.ms-ListGridExample-label {
+    font-size: 10px;
+}
+.ms-TextField {
+    display: inline-flex;
+}
+div.row-margin {
+    margin: 0;
+}

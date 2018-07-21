@@ -1,0 +1,31 @@
+{
+  "name": "ReactJS with Microsoft Fabric UI",
+  "version": "0.1.0",
+  "private": true,
+  "descriptio": "ReactJS with Fabric UI axios",
+  "author": "Sandeep Kumar Srivastava",
+  "license": "MIT",
+  "dependencies": {
+    "@uifabric/styling": "^5.31.0",
+    "axios": "^0.17.1",
+    "bootstrap": "^4.1.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.3",
+    "office-ui-fabric-react": "^5.107.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "react-table": "^6.8.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "jest": "^23.0.0"
+  }
+}

@@ -1,0 +1,145 @@
+{
+    "country": [
+        {
+            "text": "United States",
+            "key": "usa",
+            "states": [
+                {
+                    "text": "State 1 USA",
+                    "key": "usaState1",
+                    "cities": [
+                        {
+                            "text": "City 1",
+                            "key": "usaState1City1",
+                            "areas": [
+                                {
+                                    "text":"12345 sqkm",
+                                    "key": "usaareas1"
+                                },{
+                                    "text":"local sqkm",
+                                    "key": "usaareas2"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "City 2",
+                            "key": "usaState1City2",
+                            "areas": [
+                                {
+                                    "text":"cityareas2 fff sqkm",
+                                    "key": "cityareas2"
+                                },{
+                                    "text":"locald ffdf",
+                                    "key": "cityareas3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "State 2 USA",
+                    "key": "usaState2",
+                    "cities": [
+                        {
+                            "text": "City 3",
+                            "key": "usaState2City3",
+                            "areas": [
+                                {
+                                    "text":"12345 ffds sqkm",
+                                    "key": "usaareas2"
+                                },{
+                                    "text":"local ff sqkm",
+                                    "key": "usaareas3"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "City 4",
+                            "key": "usaState2City4",
+                            "areas": [
+                                {
+                                    "text":"12345 fdsfds",
+                                    "key": "usaareas12"
+                                },{
+                                    "text":"fdsf sqkm",
+                                    "key": "usaareas212"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Australia",
+            "key": "aus",
+            "states": [
+                {
+                    "text": "State 1 Australia",
+                    "key": "ausState1",
+                    "cities": [
+                        {
+                            "text": "City 5",
+                            "key": "ausState1City5",
+                            "areas": [
+                                {
+                                    "text":"12345 sqkm",
+                                    "key": "usaareas14"
+                                },{
+                                    "text":"local sqkm",
+                                    "key": "usaareas26"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "City 6",
+                            "key": "ausState1City6",
+                            "areas": [
+                                {
+                                    "text":"12345 sqkm",
+                                    "key": "usaarea2s1"
+                                },{
+                                    "text":"local sqkm",
+                                    "key": "usaare1as2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "State 2 Australia",
+                    "key": "ausState2",
+                    "cities": [
+                        {
+                            "text": "City 7",
+                            "key": "ausState2City7",
+                            "areas": [
+                                {
+                                    "text":"12345 sqkm",
+                                    "key": "usaaeereas1"
+                                },{
+                                    "text":"local sqkm",
+                                    "key": "usewaareas2"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "City 8",
+                            "key": "ausState2City8",
+                            "areas": [
+                                {
+                                    "text":"12345 sqkm",
+                                    "key": "u1saa1reas1"
+                                },{
+                                    "text":"local sqkm",
+                                    "key": "u1saareas2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+  }
+  
